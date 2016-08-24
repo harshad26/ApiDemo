@@ -4,7 +4,7 @@
   "basePath": "/",
   "apis": [
     {
-      "path": "/v1/todos.{format}",
+      "path": "/api/v1/todos.{format}",
       "description": "Todos"
     }
   ],
